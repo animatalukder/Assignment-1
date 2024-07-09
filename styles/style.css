@@ -37,15 +37,47 @@
  position: absolute;
  bottom:400px;
  left: 0;
- margin-left: 48%;
+ margin-left: 45%;
  text-align: center;
  color: #FFFFFF;
  background-color: black;
  padding: 20px 40px;
-
 }
 .header-img{
   position: absolute;
   margin-left: 45% ;
- 
-   }
+  }
+  .part-2{
+    font-size: 35px;
+    font-weight: bolder;
+    margin-top:148px;
+    text-align: center;
+    
+  }
+  .part-3{
+    font-size: 20px;
+    text-align: center;
+  }
+  .part-a{
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    height: 300px;
+    margin: 80px 550px 80px 550px;
+  }
+  .A-img{
+    width: 275px;
+  }
+  .part-c{
+    font-size:30px ;
+    font-weight: bold;
+  }
+  .part-d{
+    font-size:20px ;
+  }
+  .part-e{
+   font-size: larger;
+  font-weight: 400;
+  position: absolute;
+
+  }
